@@ -1,5 +1,6 @@
-spring:
-	application:
-		name: ms-elektra-compras
-	server:
-      	port: 8182
+#Application Configuration
+server:
+  port: 8092
+  error:
+    include-message: always
+    include-binding-errors: always
