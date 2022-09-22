@@ -1,0 +1,5 @@
+spring:
+	application:
+		name: ms-elektra-compras
+	server:
+      	port: 8182
